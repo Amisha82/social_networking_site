@@ -1,21 +1,56 @@
 * {
     box-sizing: border-box;
-    background-color: rgb(154, 142, 226);
+    
 }
-h1 {
-    background-color: mediumblue;
-    width :850px;
+body {
+    background-color: whitesmoke;
+}
+
+.half-blue {
+    width: 850px;
     height: 300px;
-    color:white;
-    text-align: 50%;
+    background-color:rgb(82, 98, 241);
+    border:1px solid black;
+    margin-left: 220px;
 }
 .picture1 {
     width: 200px;
     height: 200px;
-    background-color: blue;
+    margin-left: 230px;
     border:1px solid black;
+    background-color: rgb(82,98,241);
+    position: relative;
+    margin-top: -180px;
+    background-image: url(https://th.bing.com/th/id/OIP.iS4FzZFuLlUtANQyvs-2tQHaFj?w=288&h=213&c=7&o=5&pid=1.7);
+
 }
-.picture1 {
-     position: relative;
-     margin-top: -225px;
+.timeline-box {
+    width: 640px;
+    height: 50px;
+    background-color:white;
+     margin-left: 430px;
+     margin-top: -20px;
+}
+.timeline-box button{
+    border: none;
+    margin-top: 20px;
+    font-weight: bold;
+    background-color: white;
+}
+h2 
+   {background-color: rgb(82, 98, 241);
+    margin: 1px;
+}
+h4 {
+     background-color: rgb(82, 98, 241);
+     margin: 3px;
+}
+.main-temple {
+    margin-left: 230px;
+    margin-top: 220px;
+    background-color: rgb(82, 98, 241);
+    
+}
+.message-box {
+    float: right;
 }
