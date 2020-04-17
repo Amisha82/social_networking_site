@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(154, 142, 226);
+}
+h1 {
+    background-color: mediumblue;
+    width :850px;
+    height: 300px;
+    color:white;
+    text-align: 50%;
+}
+.picture1 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border:1px solid black;
+}
+.picture1 {
+     position: relative;
+     margin-top: -225px;
+}
