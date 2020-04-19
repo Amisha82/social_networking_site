@@ -3,7 +3,7 @@
     
 }
 body {
-    background-color: whitesmoke;
+    background-color: rgb(201, 210, 228);
 }
 
 .half-blue {
@@ -15,21 +15,21 @@ body {
 }
 .picture1 {
     width: 200px;
-    height: 200px;
+    height: 180px;
     margin-left: 230px;
     border:1px solid black;
     background-color: rgb(82,98,241);
     position: relative;
-    margin-top: -180px;
+    margin-top: -130px;
     background-image: url(https://th.bing.com/th/id/OIP.iS4FzZFuLlUtANQyvs-2tQHaFj?w=288&h=213&c=7&o=5&pid=1.7);
 
 }
 .timeline-box {
-    width: 640px;
+    width: 629px;
     height: 50px;
     background-color:white;
-     margin-left: 430px;
-     margin-top: -20px;
+     margin-left: 440px;
+     margin-top: -50px;
 }
 .timeline-box button{
     border: none;
@@ -53,4 +53,65 @@ h4 {
 }
 .message-box {
     float: right;
+
+}
+table {
+    width: 328px;
+    height: 170px;
+    border : 1px solid rgb(194, 194, 216);
+    margin: 220px;
+    margin-top: 25px;
+    border-collapse: collapse;
+    background-color: white;
+}
+.box2 table {
+    width: 328px;
+    height: 100px;
+    margin-top: -200px;
+}
+.box3 table{
+    margin-left: 560px;
+    margin-top: -545px;
+    width: 512px;
+    height: 300px;
+}
+.box4 table{
+    width: 512px;
+    height:250px;
+    margin-top: -210px;
+    margin-left: 560px;
+}
+.box5 {
+    margin-top: -435px;
+    width: 328px;
+    height: 300px;
+}
+.box5 table {
+    border: 5px solid white;
+}
+.box6 {
+    width: 328px;
+    height: 400px;
+    margin-top: 40px;
+
+}
+.box6 table td{
+    border: 3px solid white;
+    
+}
+.box7 table{
+    height: 200px;
+    content: 500px;
+    margin-left: 560px;
+    margin-top: -520px;
+}
+.box8 table{
+    width: 512px;
+    height: 130px;
+    margin-left: 560px;
+    margin-top: -220px ;
+}
+footer {
+    margin-left: 220px;
+    margin-top:-260px;
 }
